@@ -12,8 +12,6 @@ By the end of this lab, participants will be able to:
 
 
 
-
-
 ## Solution
 
 ### Part 1: Designing Cloud Infrastructure
